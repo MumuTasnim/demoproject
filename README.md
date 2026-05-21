@@ -1,2 +1,2 @@
 # demoproject
-first Git repositary
+first Git repository
